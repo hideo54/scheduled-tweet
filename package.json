@@ -1,0 +1,23 @@
+{
+  "name": "scheduled-tweet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hideo54/scheduled-tweet.git"
+  },
+  "author": "hideo54",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hideo54/scheduled-tweet/issues"
+  },
+  "homepage": "https://github.com/hideo54/scheduled-tweet#readme",
+  "devDependencies": {
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2"
+  }
+}
