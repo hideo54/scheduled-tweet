@@ -1,4 +1,5 @@
 node_modules/
 *.js
-media/*
 .env
+media/*
+!.gitkeep
