@@ -14,6 +14,8 @@ const client = new Twitter({
     access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET!,
 });
 
+let previousTweetId: string | undefined = undefined;
+
 const tweet = async (client: Twitter, schedule: Schedule) => {
     const mediaIdStrings = schedule.images && await Promise.all(
         schedule.images.map(imagePath =>
@@ -25,10 +27,12 @@ const tweet = async (client: Twitter, schedule: Schedule) => {
         )
     );
     try {
-        await client.post('statuses/update', {
+        const res = await client.post('statuses/update', {
             status: schedule.text,
             media_ids: mediaIdStrings?.join(','),
+            in_reply_to_status_id: schedule.replyToPrevious ? previousTweetId : undefined,
         });
+        previousTweetId = res.id_str;
     } catch (e) {
         console.error(e);
     }

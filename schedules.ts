@@ -4,18 +4,28 @@ export interface Schedule {
     date: string;
     text: string;
     images?: string[];
+    replyToPrevious?: boolean;
 }
 
 const schedules: Schedule[] = [
     {
-        date: '2020-09-06 20:30',
+        date: '2020-09-06 21:30',
         text: stripIndent`
-            テストツイート
-            にひひ
+            てすと
         `,
-        images: [
-            'media/allyl-eigen.jpg',
-        ],
+    },
+    {
+        date: '2020-09-06 21:30',
+        text: stripIndent`
+            スレッドテスト
+        `,
+        replyToPrevious: true,
+    },
+    {
+        date: '2020-09-06 21:30',
+        text: stripIndent`
+            ナナチ
+        `,
     },
 ];
 
