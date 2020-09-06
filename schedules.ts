@@ -4,7 +4,6 @@ export interface Schedule {
     date: string;
     text: string;
     images?: string[];
-    changeIconTo?: string;
 }
 
 const schedules: Schedule[] = [
