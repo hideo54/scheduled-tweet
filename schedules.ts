@@ -18,7 +18,7 @@ const schedules: Schedule[] = [
         `,
         images: [
             'media/programs.png',
-        ], 
+        ],
     },
     {
         date: '2020-09-20 09:00',
@@ -30,7 +30,7 @@ const schedules: Schedule[] = [
         `,
         images: [
             'media/programs.png',
-        ], 
+        ],
     },
     {
         date: '2020-09-20 09:50',
@@ -73,7 +73,7 @@ const schedules: Schedule[] = [
         text: stripIndent`
         プログラミング生放送【TSG LIVE! 5】
         「オープニングトーク」無事終了しました! https://q.tsg.ne.jp から視聴者アンケートにご協力ください！
-        このあとは12時から「ライブゲームプログラミング」です!     
+        このあとは12時から「ライブゲームプログラミング」です!
         https://www.youtube.com/watch?v=8ct9j_hEZTk
         #五月祭 #オンライン五月祭 #tsg_live
         `,
@@ -133,7 +133,7 @@ const schedules: Schedule[] = [
         date: '2020-09-20 13:50',
         text: stripIndent`
         プログラミング生放送【TSG LIVE! 5】
-        まもなく14時から「ライブコードゴルフ大会」が始まります。とにかくプログラムを短く書けるなら何でもありの異種格闘技戦! 白熱した陣取りゲームを是非ご覧ください!        
+        まもなく14時から「ライブコードゴルフ大会」が始まります。とにかくプログラムを短く書けるなら何でもありの異種格闘技戦! 白熱した陣取りゲームを是非ご覧ください!
         #五月祭 #オンライン五月祭 #tsg_live
         `,
         images: [
@@ -170,7 +170,7 @@ const schedules: Schedule[] = [
         プログラミング生放送【TSG LIVE! 5】
         「ライブコードゴルフ大会」無事終了しました! https://q.tsg.ne.jp から視聴者アンケートにご協力ください！
         このあとは16時から「ライブ競技プログラミング(マラソン)」です!
-        https://www.youtube.com/watch?v=8ct9j_hEZTk     
+        https://www.youtube.com/watch?v=8ct9j_hEZTk
         #五月祭 #オンライン五月祭 #tsg_live
         `,
         images: [
