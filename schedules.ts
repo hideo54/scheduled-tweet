@@ -9,6 +9,13 @@ export interface Schedule {
 
 const schedules: Schedule[] = [
     {
+        date: '2020-09-18 17:00',
+        text: stripIndent`
+        ライブCTFの視聴者参加のリンクが到着しました！ まだアクセスはできませんが、当日はhttp://live-ctf.tsg.ne.jp にお越しください！
+        #五月祭 #オンライン五月祭 #tsg_live
+        `,
+    },
+    {
         date: '2020-09-20 06:00',
         text: stripIndent`
         おはようございます! 本日10時からプログラミング生放送【TSG LIVE! 5】放送開始です。本放送は2日間にわたって行われます。スケジュールは画像にてご確認ください。是非お楽しみください!
