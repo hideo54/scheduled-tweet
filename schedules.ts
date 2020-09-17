@@ -72,13 +72,13 @@ const schedules: Schedule[] = [
         date: '2020-09-20 11:30',
         text: stripIndent`
         プログラミング生放送【TSG LIVE! 5】
-        「オープニングトーク」無事終了しました! このあとは12時から「ライブゲームプログラミング」です!
-        https://q.tsg.ne.jp から視聴者アンケートにご協力ください！
+        「オープニングトーク」無事終了しました! https://q.tsg.ne.jp から視聴者アンケートにご協力ください！
+        このあとは12時から「ライブゲームプログラミング」です!     
         https://www.youtube.com/watch?v=8ct9j_hEZTk
         #五月祭 #オンライン五月祭 #tsg_live
         `,
         images: [
-            'media/gameprograming.png',
+            'media/gameprogramming.png',
         ],
     },
     {
@@ -89,7 +89,7 @@ const schedules: Schedule[] = [
         #五月祭 #オンライン五月祭 #tsg_live
         `,
         images: [
-            'media/gameprograming.png',
+            'media/gameprogramming.png',
         ],
     },
     {
@@ -101,7 +101,7 @@ const schedules: Schedule[] = [
         #五月祭 #オンライン五月祭 #tsg_live
         `,
         images: [
-            'media/gameprograming.png',
+            'media/gameprogramming.png',
         ],
     },
     {
@@ -113,15 +113,15 @@ const schedules: Schedule[] = [
         #五月祭 #オンライン五月祭 #tsg_live
         `,
         images: [
-            'media/gameprograming.png',
+            'media/gameprogramming.png',
         ],
     },
     {
         date: '2020-09-20 13:30',
         text: stripIndent`
         プログラミング生放送【TSG LIVE! 5】
-        「ライブゲームプログラミング」無事終了しました! このあとは14時から「ライブコードゴルフ大会」です!
-        https://q.tsg.ne.jp から視聴者アンケートにご協力ください！
+        「ライブゲームプログラミング」無事終了しました! https://q.tsg.ne.jp から視聴者アンケートにご協力ください！
+        このあとは14時から「ライブコードゴルフ大会」です!
         https://www.youtube.com/watch?v=8ct9j_hEZTk
         #五月祭 #オンライン五月祭 #tsg_live
         `,
@@ -168,8 +168,8 @@ const schedules: Schedule[] = [
         date: '2020-09-20 15:30',
         text: stripIndent`
         プログラミング生放送【TSG LIVE! 5】
-        「ライブコードゴルフ大会」無事終了しました! このあとは16時から「ライブ競技プログラミング(マラソン)」です!
-        https://q.tsg.ne.jp から視聴者アンケートにご協力ください！
+        「ライブコードゴルフ大会」無事終了しました! https://q.tsg.ne.jp から視聴者アンケートにご協力ください！
+        このあとは16時から「ライブ競技プログラミング(マラソン)」です!
         https://www.youtube.com/watch?v=8ct9j_hEZTk     
         #五月祭 #オンライン五月祭 #tsg_live
         `,
@@ -215,7 +215,7 @@ const schedules: Schedule[] = [
     {
         date: '2020-09-20 17:30',
         text: stripIndent`
-        本日の全プログラムが無事終了いたしました。ご視聴いただきありがとうございました!https://q.tsg.ne.jp から視聴者アンケートにご協力ください!五月祭2日目のプログラミング生放送【TSG LIVE! 5】は明日の10:00開始です。お見逃しのないように!
+        本日の全プログラムが無事終了いたしました。ご視聴いただきありがとうございました! https://q.tsg.ne.jp から視聴者アンケートにご協力ください!五月祭2日目のプログラミング生放送【TSG LIVE! 5】は明日の10:00開始です。お見逃しのないように!
         #五月祭 #オンライン五月祭 #tsg_live
         `,
     },
@@ -251,7 +251,7 @@ const schedules: Schedule[] = [
         #五月祭 #オンライン五月祭 #tsg_live
         `,
         images: [
-            'media/gameprograming.png',
+            'media/gameprogramming.png',
         ],
     },
     {
@@ -263,7 +263,7 @@ const schedules: Schedule[] = [
         #五月祭 #オンライン五月祭 #tsg_live
         `,
         images: [
-            'media/gameprograming.png',
+            'media/gameprogramming.png',
         ],
     },
     {
@@ -275,15 +275,15 @@ const schedules: Schedule[] = [
         #五月祭 #オンライン五月祭 #tsg_live
         `,
         images: [
-            'media/gameprograming.png',
+            'media/gameprogramming.png',
         ],
     },
     {
         date: '2020-09-21 11:30',
         text: stripIndent`
         プログラミング生放送【TSG LIVE! 5】
-        「ライブゲームプログラミング」無事終了しました! このあとは12時から「ライブコードゴルフ大会」です!
-        https://q.tsg.ne.jp から視聴者アンケートにご協力ください！
+        「ライブゲームプログラミング」無事終了しました! https://q.tsg.ne.jp から視聴者アンケートにご協力ください！
+        このあとは12時から「ライブコードゴルフ大会」です!
         https://www.youtube.com/watch?v=HPgan1Ut6b8
         #五月祭 #オンライン五月祭 #tsg_live
         `,
@@ -330,8 +330,8 @@ const schedules: Schedule[] = [
         date: '2020-09-21 13:30',
         text: stripIndent`
         プログラミング生放送【TSG LIVE! 5】
-        「ライブコードゴルフ大会」無事終了しました!このあとは14時から「ライブCTF」です!
-        https://q.tsg.ne.jp から視聴者アンケートにご協力ください！
+        「ライブコードゴルフ大会」無事終了しました! https://q.tsg.ne.jp から視聴者アンケートにご協力ください！
+        このあとは14時から「ライブCTF」です!
         https://www.youtube.com/watch?v=HPgan1Ut6b8
         #五月祭 #オンライン五月祭 #tsg_live
         `,
@@ -380,8 +380,8 @@ const schedules: Schedule[] = [
         date: '2020-09-21 15:30',
         text: stripIndent`
         プログラミング生放送【TSG LIVE! 5】
-        「ライブCTF」無事終了しました!このあとは16時から「ライブハッキング」です!
-        https://q.tsg.ne.jp から視聴者アンケートにご協力ください！
+        「ライブCTF」無事終了しました! https://q.tsg.ne.jp から視聴者アンケートにご協力ください！
+        このあとは16時から「ライブハッキング」です!
         https://www.youtube.com/watch?v=HPgan1Ut6b8
         #五月祭 #オンライン五月祭 #tsg_live
         `,
@@ -393,7 +393,7 @@ const schedules: Schedule[] = [
         date: '2020-09-21 15:50',
         text: stripIndent`
         プログラミング生放送【TSG LIVE! 5】
-        まもなく16時から「ライブハッキング」が始まります。初夏に開かせて頂いたTSG CTF 2020の解説放送も行われますよ!
+        まもなく16時から「ライブハッキング」が始まります。初夏に開催したTSG CTF 2020の解説放送も行われますよ!
         TSGのセキュリティ技術の集大成を是非ご覧ください！
         #五月祭 #オンライン五月祭 #tsg_live
         `,
@@ -429,7 +429,7 @@ const schedules: Schedule[] = [
         date: '2020-09-21 17:30',
         text: stripIndent`
         【TSG LIVE! 5】の全プログラムが無事終了いたしました! ご視聴いただき本当にありがとうございました!
-        https://q.tsg.ne.jp から視聴者アンケートにご協力ください！見逃した方もアーカイブ配信と後日upされるコーナーごとの動画を是非ご利用ください!
+        https://q.tsg.ne.jp から視聴者アンケートにご協力ください！見逃した方もアーカイブ配信と後日upされるコーナーごとの動画を是非お楽しみください!
         #五月祭 #オンライン五月祭 #tsg_live
         `,
     },
