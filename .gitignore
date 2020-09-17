@@ -1,5 +1,5 @@
 node_modules/
 *.js
 .env
-media/*
+#media/*
 !.gitkeep
