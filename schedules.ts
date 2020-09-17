@@ -11,7 +11,7 @@ const schedules: Schedule[] = [
     {
         date: '2020-09-20 06:00',
         text: stripIndent`
-        おはようございます! 本日10:00時からプログラミング生放送【TSG LIVE! 5】 放送開始です。本放送は2日間にわたって行われます。スケジュールは画像にてご確認ください。是非お楽しみください!
+        おはようございます! 本日10:00時からプログラミング生放送【TSG LIVE! 5】放送開始です。本放送は2日間にわたって行われます。スケジュールは画像にてご確認ください。是非お楽しみください!
         #tsg_live で拡散よろしくお願いします!
         https://www.youtube.com/watch?v=8ct9j_hEZTk
         #五月祭 #オンライン五月祭 #tsg_live
@@ -108,7 +108,7 @@ const schedules: Schedule[] = [
         text: stripIndent`
         プログラミング生放送【TSG LIVE! 5】
         「ライブゲームプログラミング」無事終了しました! このあとは14時から「ライブコードゴルフ大会」です!
-        https://www.youtube.com/watch?v=8ct9j_hEZTk        
+        https://www.youtube.com/watch?v=8ct9j_hEZTk
         #五月祭 #オンライン五月祭 #tsg_live
         `,
         images: [
@@ -131,7 +131,7 @@ const schedules: Schedule[] = [
         text: stripIndent`
         プログラミング生放送【TSG LIVE! 5】
         ただいま「ライブコードゴルフ大会」を放送中です!
-        https://www.youtube.com/watch?v=8ct9j_hEZTk        
+        https://www.youtube.com/watch?v=8ct9j_hEZTk
         #五月祭 #オンライン五月祭 #tsg_live
         `,
         images: [
@@ -143,7 +143,7 @@ const schedules: Schedule[] = [
         text: stripIndent`
         プログラミング生放送【TSG LIVE! 5】
         ただいま「ライブコードゴルフ大会」を放送中です!
-        https://www.youtube.com/watch?v=8ct9j_hEZTk        
+        https://www.youtube.com/watch?v=8ct9j_hEZTk
         #五月祭 #オンライン五月祭 #tsg_live
         `,
         images: [
@@ -190,7 +190,7 @@ const schedules: Schedule[] = [
         text: stripIndent`
         プログラミング生放送【TSG LIVE! 5】
         ただいま「ライブ競技プログラミング(マラソン)」を放送中です!
-        https://www.youtube.com/watch?v=8ct9j_hEZTk        
+        https://www.youtube.com/watch?v=8ct9j_hEZTk
         #五月祭 #オンライン五月祭 #tsg_live
         `,
         images: [
