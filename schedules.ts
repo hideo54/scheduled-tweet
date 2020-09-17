@@ -11,7 +11,7 @@ const schedules: Schedule[] = [
     {
         date: '2020-09-18 17:00',
         text: stripIndent`
-        ライブCTFの視聴者参加のリンクが到着しました！ まだアクセスはできませんが、当日はhttp://live-ctf.tsg.ne.jp にお越しください！
+        ライブCTFの視聴者参加のリンクが到着しました！ まだアクセスはできませんが、当日は http://live-ctf.tsg.ne.jp にお越しください！
         #五月祭 #オンライン五月祭 #tsg_live
         `,
     },
