@@ -316,6 +316,7 @@ const schedules: Schedule[] = [
         プログラミング生放送【TSG LIVE! 5】
         まもなく14時から「ライブCTF」が始まります。
         ハッキング技術を競うアツい戦いです！視聴者のみなさんもCTFに並行して参加できますので、腕試しに如何でしょうか！是非見にきてください！
+        https://live-ctf.tsg.ne.jp
         #五月祭 #オンライン五月祭 #tsg_live
         `,
         images: [
