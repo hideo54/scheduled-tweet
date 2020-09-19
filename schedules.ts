@@ -255,6 +255,7 @@ const schedules: Schedule[] = [
         text: stripIndent`
         まもなく10時から「ライブゲームプログラミング」が始まります。
         プログラミングを得意とする部員が90分で一つのゲームを完成させます！以下のURLからリアルタイムでゲームを遊ぶことができます。
+        https://hideo54.github.io/HexaMineSweeper/
         #五月祭 #オンライン五月祭 #tsg_live
         `,
         images: [
@@ -266,6 +267,7 @@ const schedules: Schedule[] = [
         text: stripIndent`
         プログラミング生放送【TSG LIVE! 5】
         ただいま「ライブゲームプログラミング」を放送中です!
+        https://hideo54.github.io/HexaMineSweeper/ からリアルタイムでゲームを遊ぶことができます！
         https://www.youtube.com/watch?v=HPgan1Ut6b8
         #五月祭 #オンライン五月祭 #tsg_live
         `,
@@ -278,6 +280,7 @@ const schedules: Schedule[] = [
         text: stripIndent`
         プログラミング生放送【TSG LIVE! 5】
         ただいま「ライブゲームプログラミング」を放送中です!
+        https://hideo54.github.io/HexaMineSweeper/ からリアルタイムでゲームを遊ぶことができます！
         https://www.youtube.com/watch?v=HPgan1Ut6b8
         #五月祭 #オンライン五月祭 #tsg_live
         `,
@@ -288,8 +291,8 @@ const schedules: Schedule[] = [
     {
         date: '2020-09-21 11:30',
         text: stripIndent`
-        プログラミング生放送【TSG LIVE! 5】
-        「ライブゲームプログラミング」無事終了しました! https://q.tsg.ne.jp から視聴者アンケートにご協力ください！
+        「ライブゲームプログラミング」無事終了しました!完成したゲームは https://hideo54.github.io/HexaMineSweeper/ から遊べます。
+        https://q.tsg.ne.jp から視聴者アンケートにご協力ください！
         このあとは12時から「ライブコードゴルフ大会」です!
         https://www.youtube.com/watch?v=HPgan1Ut6b8
         #五月祭 #オンライン五月祭 #tsg_live
